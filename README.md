@@ -1,5 +1,5 @@
 # ExemploApi
-Aplicação exemplo para construção de chamadas para API's
+Aplicação exemplo em WPF para construção de chamadas para API's
 
 Exemplo criado a partir deste [vídeo](https://www.youtube.com/watch?v=aWePkE2ReGw&t=2105s) do canal do Tim Corey ["IAmTimCorey"](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw) 
 
